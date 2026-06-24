@@ -1,0 +1,7 @@
+data/
+outputs/
+*.csv
+*.db
+*-journal
+.ipynb_checkpoints/
+__pycache__/
