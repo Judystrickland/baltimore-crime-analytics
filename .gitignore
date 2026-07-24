@@ -1,6 +1,5 @@
-data/
-outputs/
-*.csv
+data/raw/
+data/cleaned/*.csv
 *.db
 *-journal
 .ipynb_checkpoints/
